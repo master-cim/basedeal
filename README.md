@@ -11,7 +11,8 @@
 
 [![Baza|Del](https://sun9-38.userapi.com/s/v1/ig2/NyzOoOIRbTbfNG74Uorihl5NkeN2cve5Ph5I1_PEhF8V1yO_RnkWiO_JSVgVklyq8Q3ahwpFOGWcn5c8pUoao_rk.jpg?quality=95&as=32x33,48x50,72x75,108x112,160x166,240x249,360x373,382x396&from=bu&u=tg9zQqY9rtgcHIXwyik9fwGd7LKPMDXyYeO3Sp7U3Ww&cs=320x332)](https://)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]({ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" })
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic)
+
 
 ✨ Мы специализируемся на инженирии данных, предоставляя Вам надежные и эффективные решения для управления информацией. Наша команда экспертов также занимается аналитикой данных, помогая Вам превратить огромные объемы информации в ценные и практические знания.
 
