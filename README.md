@@ -1,7 +1,7 @@
 # БазаДел
 ## _Агентство инновационных ИТ-решений_
 
-[![Baza|Del](https://drive.google.com/file/d/1mPEPUP8S9_jvtC763aC_4LEFcJJ7nXfn/view?usp=sharing)](https://)
+[![Baza|Del](https://drive.google.com/file/d/1mPEPUP8S9_jvtC763aC_4LEFcJJ7nXfn/view?usp=drive_link)](https://)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://)
 
